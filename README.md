@@ -1,4 +1,4 @@
-# Effective decoupling of mutations and the resulting loss of diversity caused by environmental change
+# Effective decoupling of mutations and the resulting loss of biodiversity caused by environmental change
 
 
 
